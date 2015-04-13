@@ -1,4 +1,4 @@
-NodeJS基础
+NodeJS基础 [有事Q我](http://wpa.qq.com/msgrd?v=3&uin=83509406&site=qq&menu=yes)
 ----------------------
 
 ### 什么是NodeJS
